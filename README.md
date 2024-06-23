@@ -6,6 +6,7 @@ praktek dan teori dalam pembelajaran pertama GitHub
 - belajar membuat repo
 - apa itu Branch
 - kegunaan GitHub
+- Belajar tentang readme.md
 
 # Bab 1 Praktek
 - membuat repo
