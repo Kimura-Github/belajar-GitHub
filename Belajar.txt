@@ -1,3 +1,4 @@
-belajar 
-praktek
-kerja
+TEST
+- praktek
+- kerja
+- belajar
